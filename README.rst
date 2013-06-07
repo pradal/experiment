@@ -1,7 +1,7 @@
 VPLab Notebooks
 ===============
 
-nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/lpy.ipynb
+http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/lpy.ipynb
 
 
 Git
