@@ -1,7 +1,7 @@
 VPLab Notebooks
 ===============
 
-`Simple LPy example <http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/lpy.ipynb>`
+`Simple LPy example <http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/lpy.ipynb>`_
 
 
 Git
