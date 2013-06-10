@@ -8,7 +8,8 @@ LPy
   
 MTG
 ---
-  - `Tutorial MTG and LPy <http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/walnut.ipynb>`_
+  - `Walnut reconstruction <http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/walnut.ipynb>`_
+  - `Vine simulation <http://nbviewer.ipython.org/urls/raw.github.com/pradal/experiment/master/vine.ipynb>`_
 
 Git
 ===
